@@ -1,0 +1,73 @@
+{
+    "notifyAboutUpdates": true,
+    "unsafeRequire": false,
+    "useQuickCss": true,
+    "plugins": {
+        "STFU": {
+            "enabled": false
+        },
+        "MessageEventsAPI": {
+            "enabled": false
+        },
+        "ApiNotices": {
+            "enabled": true
+        },
+        "BANger": {
+            "enabled": false
+        },
+        "BetterGifAltText": {
+            "enabled": false
+        },
+        "ClickableRoleDot": {
+            "enabled": false
+        },
+        "ConsoleShortcuts": {
+            "enabled": false
+        },
+        "Experiments": {
+            "enabled": false
+        },
+        "iLoveSpam": {
+            "enabled": false
+        },
+        "Ify": {
+            "enabled": false
+        },
+        "isStaff": {
+            "enabled": false
+        },
+        "MessageQuickActions": {
+            "enabled": false
+        },
+        "MuteNewGuild": {
+            "enabled": true
+        },
+        "NitroBypass": {
+            "enabled": false
+        },
+        "NoReplyMention": {
+            "enabled": false
+        },
+        "NoTrack": {
+            "enabled": true
+        },
+        "PlainFolderIcon": {
+            "enabled": false
+        },
+        "RandomiseFileNames": {
+            "enabled": false
+        },
+        "Settings": {
+            "enabled": true
+        },
+        "SilentTyping": {
+            "enabled": false
+        },
+        "Unindent": {
+            "enabled": true
+        },
+        "ViewIcons": {
+            "enabled": false
+        }
+    }
+}
